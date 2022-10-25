@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dancoon
-- 👀 I’m interested in Cyber Security and mobile development
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Bsc Computer Science
 - 📫 How to reach me @dancunian10340@gmail.com
 
