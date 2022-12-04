@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @dancoon
 
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security, Web development and System Engineering
 
 - 🌱 I’m currently learning Bsc Computer Science
 
