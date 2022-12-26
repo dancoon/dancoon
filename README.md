@@ -18,15 +18,18 @@
   </a>
 </p>
 
-## Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical)
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact&theme=blue-green)
 
 ## Skills
 - 👨‍💻 C/C++, Python, Java
 - ⚙️ Shell
 - 👁️ HTML, CSS, 
+
+
+## Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical)
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact&theme=blue-green)
+
 <!---
 dancoon/dancoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
