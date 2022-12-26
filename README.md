@@ -2,7 +2,7 @@
 
  ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 👋 Hi, I’m @dancoon
-- 👀 I’m interested in Cyber Security, Web development and System Engineering
+- 👀 I’m interested in Cyber Security, Web development, AI and System Engineering
 - 🌱 I’m currently learning Bsc Computer Science
 - 📫 How to reach me @dancunian10340@gmail.com
 
