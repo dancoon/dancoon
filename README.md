@@ -10,9 +10,6 @@
   <a href="https://github.com/dancoon/dancoon">
     <img src="https://komarev.com/ghpvc/?username=dancoon&color=red" alt="profile views" />
   </a>
-  <a href="https://dancoon.medium.com">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
-  </a>
   <a href="https://github.com/dancoon?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/dancoon?color=yellow&logo=github">
   </a>
