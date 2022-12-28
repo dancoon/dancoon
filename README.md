@@ -7,13 +7,13 @@
 - 📫 How to reach me @dancunian10340@gmail.com
 
 <p align="left">
-  <a href="https://github.com/codemaker2015/codemaker2015">
+  <a href="https://github.com/dancoon/dancoon">
     <img src="https://komarev.com/ghpvc/?username=dancoon&color=red" alt="profile views" />
   </a>
-  <a href="https://codemaker2015.medium.com">
+  <a href="https://dancoon.medium.com">
     <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
   </a>
-  <a href="https://github.com/codemaker2015?tab=followers">
+  <a href="https://github.com/dancoon?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/dancoon?color=yellow&logo=github">
   </a>
 </p>
@@ -36,7 +36,7 @@
 ## Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical)
 
-
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact&theme=blue-green)
 
 <!---
 dancoon/dancoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
