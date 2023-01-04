@@ -32,10 +32,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical) -->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true)
 
 <!-- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact&theme=blue-green) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact) -->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&theme=radical)
 
 <!---
 dancoon/dancoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
