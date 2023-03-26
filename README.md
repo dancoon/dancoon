@@ -1,5 +1,7 @@
 [![HIbYhfj.gif](https://iili.io/HIbYhfj.gif)](https://freeimage.host/) <img align="right;" width="65" alt="meet_link" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
 
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1>
+
  ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 👋 Hi, I’m Ian Dancun
 - 👀 Interested in cyber security, web development, AI, system engineering 
@@ -39,7 +41,6 @@
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical) -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact) -->
-
 
 <!---
 dancoon/dancoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
