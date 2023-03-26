@@ -2,8 +2,8 @@
 
  ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 👋 Hi, I’m Ian Dancun
-- 👀 I’m interested in Cyber Security, Web development, AI and System Engineering
-- 🌱 I’m currently learning Bsc Computer Science
+- 👀 Interested in cyber security, web development, AI, system engineering 
+- 🌱I am currently studying Bsc Computer Science at JKUAT. 
 - 📫 How to reach me @dancunian10340@gmail.com
 
 <p align="left">
