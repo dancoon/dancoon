@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Ian Dancun
 - 👀 Interested in cyber security, web development, AI, system engineering 
 - 🌱I am currently studying Bsc Computer Science at JKUAT. 
-- 📫 How to reach me @dancunian10340@gmail.com
+- 📫 How to reach me @dancoonmwangi@gmail.com
 
 <p align="left">
   <a href="https://github.com/dancoon/dancoon">
