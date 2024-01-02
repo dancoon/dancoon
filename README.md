@@ -45,7 +45,7 @@
 <!-- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact&theme=blue-green) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&theme=radical)
+
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical) -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact) -->
