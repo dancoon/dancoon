@@ -3,10 +3,13 @@
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1>
 
  ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-- 👋 Hi, I’m Ian Dancun
-- 👀 Interested in cyber security, web development, AI, system engineering 
-- 🌱I am currently studying Bsc Computer Science at JKUAT. 
-- 📫 How to reach me @dancoonmwangi@gmail.com
+
+👋 Hi, I'm Ian Duncan, a passionate student currently pursuing a BSc in Computer Science at JKUAT.\
+👨‍💻 My interests span across cybersecurity, web development, AI, and system engineering.\
+🤖 I'm always eager to explore new technologies and enhance my skills in the ever-evolving world of computer science.\
+📧 Feel free to reach out to me at dancoonmwangi@gmail.com. 
+
+🚀🚀 I'm open to discussions, collaborations, and connecting with like-minded individuals. 🚀🚀
 
 <p align="left">
   <a href="https://github.com/dancoon/dancoon">
