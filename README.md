@@ -4,7 +4,7 @@
 
  ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-👋 Hi, I'm Ian Duncan, a passionate student currently pursuing a BSc in Computer Science at JKUAT.\
+👋 Hi, I'm Ian Dancun, a passionate student currently pursuing a BSc in Computer Science at JKUAT.\
 👨‍💻 My interests span across cybersecurity, web development, AI, and system engineering.\
 🤖 I'm always eager to explore new technologies and enhance my skills in the ever-evolving world of computer science.\
 📧 Feel free to reach out to me at dancoonmwangi@gmail.com. 
