@@ -2,13 +2,12 @@
 
 
 ## 👋 Hi, I'm Ian Dancun
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1>
+<p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </p>
 
 ## 👨‍💻 About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 👨‍💻 My interests span across cybersecurity, web development, AI, and system engineering.\
 🤖 I'm always eager to explore new technologies and enhance my skills in the ever-evolving world of computer science.\
 🚀🚀 I'm open to discussions, collaborations, and connecting with like-minded individuals. 🚀🚀
-
 <p align="left">
   <a href="https://github.com/dancoon/dancoon">
     <img src="https://komarev.com/ghpvc/?username=dancoon&color=red" alt="profile views" />
@@ -17,7 +16,6 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/dancoon?color=yellow&logo=github">
   </a>
 </p>
-
 
 ## 🛠 Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
