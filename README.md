@@ -1,14 +1,12 @@
 [![HIbYhfj.gif](https://iili.io/HIbYhfj.gif)](https://freeimage.host/) <img align="right;" width="65" alt="" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
 
+
+## 👋 Hi, I'm Ian Dancun
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1>
 
- ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-👋 Hi, I'm Ian Dancun, a passionate student currently pursuing a BSc in Computer Science at JKUAT.\
+## 👨‍💻 About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 👨‍💻 My interests span across cybersecurity, web development, AI, and system engineering.\
 🤖 I'm always eager to explore new technologies and enhance my skills in the ever-evolving world of computer science.\
-📧 Feel free to reach out to me at dancoonmwangi@gmail.com. 
-
 🚀🚀 I'm open to discussions, collaborations, and connecting with like-minded individuals. 🚀🚀
 
 <p align="left">
@@ -21,7 +19,7 @@
 </p>
 
 
-## Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## 🛠 Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,6 +46,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
+
+## 🎓 Education
+- BSc in Computer Science
+    +  🏛 Jomo Kenyatta University of Agriculture and Technology (JKUAT)
+    +  📅 2022 – Present
+
+## 📬 Get In Touch
+* 📞 Phone: +254715592343
+* 📧 Email: dancoonmwangi@gmail.com
+* 🔗 LinkedIn: ![Dancun Ian Mwangi]( https://www.linkedin.com/in/dancoon/)
 
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
 <!---
