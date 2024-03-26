@@ -16,28 +16,13 @@
 
 ## 🛠 Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-Here's the updated table with Dart included in the list of languages:
-
-| Category         | Skills               |
-|------------------|----------------------|
-| Frontend         | React                |
-|                  | NextJs               |
-| Backend          | Django               |
-|                  | NodeJs               |
-|                  | Flask                |
-| Mobile           | Flutter              |
-| Languages        | C                    |
-|                  | C++                  |
-|                  | Python               |
-|                  | Java                 |
-|                  | JavaScript           |
-|                  | TypeScript           |
-|                  | Dart                 |
-| Databases        | MySQL                |
-|                  | SQLite               |
-|                  | PostgreSQL           |
-|                  | MongoDB              |
-|                  | Redis                |
+| Category         | Skills                                        |
+|------------------|-----------------------------------------------|
+| Frontend         | React, NextJs                                 |
+| Backend          | Django, NodeJs, Flask                         |
+| Mobile           | Flutter                                       |
+| Languages        | C, C++, Python, Java, JavaScript, TypeScript, Dart |
+| Databases        | MySQL, SQLite, PostgreSQL, MongoDB, Redis     |
 
 ## 🎓 Education
 - BSc in Computer Science
