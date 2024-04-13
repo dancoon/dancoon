@@ -23,6 +23,9 @@
 | Mobile           | Flutter                                       |
 | Languages        | C, C++, Python, Java, JavaScript, TypeScript, Dart, VB |
 | Databases        | MySQL, SQLite, PostgreSQL, MongoDB, Redis     |
+| Cloud            | Render                                        |
+| Devops           | Docker                                        |
+| Tools            | Git, Figma, Jira                              |
 
 ## 🎓 Education
 - BSc in Computer Science
