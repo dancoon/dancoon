@@ -18,8 +18,8 @@
 
 | Category         | Skills                                        |
 |------------------|-----------------------------------------------|
-| Frontend         | React, NextJs                                 |
-| Backend          | Django, ExpressJs, Flask                         |
+| Frontend         | React, NextJs, HTML, CSS                      |
+| Backend          | Django, ExpressJs, Flask                      |
 | Mobile           | Flutter                                       |
 | Languages        | C, C++, Python, Java, JavaScript, TypeScript, Dart, VB |
 | Databases        | MySQL, SQLite, PostgreSQL, MongoDB, Redis     |
