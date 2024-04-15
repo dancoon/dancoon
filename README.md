@@ -2,9 +2,9 @@
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </p>
 
 ## 👨‍💻 About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-👨‍💻 My interests span across cybersecurity, web development, AI, and system engineering.\
-🤖 I'm always eager to explore new technologies and enhance my skills in the ever-evolving world of computer science.\
-🚀🚀 I'm open to discussions, collaborations, and connecting with like-minded individuals. 🚀🚀
+👨‍💻 I'm deeply passionate about cybersecurity, web development, AI, and system engineering, constantly seeking to deepen my expertise in these dynamic fields.
+🤖 Enthusiastic about exploring emerging technologies, I thrive in the fast-paced world of computer science, always eager to learn and adapt.
+🚀 I welcome discussions, collaborations, and connections with fellow enthusiasts to exchange ideas and drive innovation forward. Let's connect and propel the future of technology together!
 <p align="left">
   <a href="https://github.com/dancoon/dancoon">
     <img src="https://komarev.com/ghpvc/?username=dancoon&color=red" alt="profile views" />
@@ -13,6 +13,10 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/dancoon?color=yellow&logo=github">
   </a>
 </p>
+
+## 📘 My Top Open Source
+[![pytube-client](https://github-readme-stats.vercel.app/api/pin/?username=dancoon&repo=pytube-client&border_color=3498DB&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D4AC0D)](https://github.com/dancoon/pytube-client)
+
 
 ## 🛠 Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
