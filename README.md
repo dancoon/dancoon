@@ -1,5 +1,5 @@
-<h2 align="left"> Hi 👋, I'm Ian Dancun</h2>
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </p>
+<img alt="Dancoon's Banner" src="Banner.png">
 
 ## 👨‍💻 About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 👨‍💻 I'm deeply passionate about cybersecurity, web development, AI, and system engineering, constantly seeking to deepen my expertise in these dynamic fields.
