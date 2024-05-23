@@ -22,14 +22,14 @@
 
 | Category         | Skills                                        |
 |------------------|-----------------------------------------------|
-| Frontend         | React, NextJs, HTML, CSS                      |
+| Frontend         | React, NextJs, HTML, CSS, Tailwindcss, Bootstrap |
 | Backend          | Django, ExpressJs, Flask                      |
 | Mobile           | Flutter                                       |
 | Languages        | C, C++, Python, Java, JavaScript, TypeScript, Dart, VB |
 | Databases        | MySQL, SQLite, PostgreSQL, MongoDB, Redis     |
-| Cloud            | Render                                        |
+| Cloud            | Render, Heroku                                |
 | Devops           | Docker                                        |
-| Tools            | Git, Figma, Jira                              |
+| Tools            | Git, Figma, Jira, Trello                      |
 
 ## 🎓 Education
 - BSc in Computer Science
