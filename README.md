@@ -38,7 +38,7 @@
 
 ## 📬 Get In Touch
 * 📞 Phone: +254715592343
-* 📧 Email: dancoonmwangi@gmail.com
+* 📧 Email: dancoondev@gmail.com
 * 🔗 LinkedIn: ![Dancun Ian Mwangi]( https://www.linkedin.com/in/dancoon/)
 
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
