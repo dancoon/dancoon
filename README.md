@@ -27,7 +27,7 @@
 | Mobile           | Flutter                                       |
 | Languages        | C, C++, Python, Java, JavaScript, TypeScript, Dart, VB |
 | Databases        | MySQL, SQLite, PostgreSQL, MongoDB, Redis     |
-| Cloud            | Render, Heroku                                |
+| Cloud            | Render, Heroku, Azure                         |
 | Devops           | Docker                                        |
 | Tools            | Git, Figma, Jira, Trello                      |
 
