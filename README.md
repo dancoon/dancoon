@@ -14,9 +14,10 @@
   </a>
 </p>
 
+<!---
 ## 📘 My Top Projects
 [![nexus](https://github-readme-stats.vercel.app/api/pin/?username=dancoon&repo=nexus&border_color=3498DB&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=D4AC0D)](https://github.com/dancoon/nexus)
-
+--->
 
 ## 🛠 Tech Stack  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
